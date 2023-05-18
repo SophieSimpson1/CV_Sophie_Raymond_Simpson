@@ -16,7 +16,7 @@ body {
     padding: 1rem;
 
     /* background image*/
-    background-image: url('public/cloud-g2e6b67838_1920.png');
+    background-image: url('cloud-g2e6b67838_1920.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -45,7 +45,7 @@ body {
 }
 
 #background-1 {
-    background-image: url("public/leaf-4584104_1280.jpg");
+    background-image: url("leaf-4584104_1280.jpg");
     background-size: cover;
     background-position: center;
     opacity: 1;
