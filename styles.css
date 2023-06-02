@@ -51,6 +51,13 @@ body {
     opacity: 1;
 }
 
+#background-2 {
+    background-image: url("1037370.jpg");
+    background-size: cover;
+    background-position: center;
+    opacity: 1;
+}
+
 .header-content {
     display: flex;
     flex-direction: column;
