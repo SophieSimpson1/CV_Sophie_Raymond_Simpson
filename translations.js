@@ -9,7 +9,7 @@ export default {
       my_soft_skills_title: "Soft skills",
       my_soft_skills_list: "Optimistic, empathetic, caring, curious, inventive, hyper creative, pedagogue, patient & structured",
       my_hard_skills_title: "Hard skills",
-      my_hard_skills_list: "Expertise Pack Office. Expertise in Excel. Manager Coaching skills. Editing/Writing skills. Translating skills Data. Analysis skills Passion for high jewelry",
+      my_hard_skills_list: "Expertise Pack Office. Expertise in Excel. Manager Coaching skills. Editing/Writing skills. Translating skills Data. Analysis skills. Passion for high jewelry",
       my_wild_skills_title: "Hobbies",
       my_wild_skills_list: "Horse riding -Galop 4 preparation. Cinema. Writing/Literature. Swimming",
       my_experience_title: "Professional experience",
