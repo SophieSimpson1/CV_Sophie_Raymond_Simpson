@@ -60,7 +60,7 @@ export default {
       my_soft_skills_title: "Qualités personnelles", 
       my_soft_skills_list: "Optimiste, empathique, bienveillante, curieuse, inventive, hyper-créative, pédagogue, patiente & structurée",
       my_hard_skills_title: "Compétences professionnelles",
-      my_hard_skills_list: "Maîtrise du Pack Office. Maîtrise Excel. Compétences de Manager. Coach. Aptitudes pour l’écriture et la rédaction. Traductrice/Interprète. Compétences d’analyses de données Passionnée de joaillerie",
+      my_hard_skills_list: "Maîtrise du Pack Office. Maîtrise Excel. Compétences de Manager. Coach. Aptitudes pour l’écriture et la rédaction. Traductrice/Interprète. Compétences d’analyses de données. Passionnée de joaillerie",
       my_wild_skills_title: "Loisirs",
       my_wild_skills_list: "Equitation Préparation Galop 4. Cinéma. Ecriture/Littérature. Natation",
       my_experience_title: "Expérience professionnelle",
